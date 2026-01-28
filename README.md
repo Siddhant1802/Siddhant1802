@@ -1,25 +1,31 @@
 <!-- ===================== HEADER ===================== -->
+<!-- ===================== HEADER ===================== -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Siddhant%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn"
+    src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"
+    alt="Siddhant Singh Banner"
+    width="100%"
   />
 </p>
 
-<h3 align="center">
-  Data Engineer · AI/ML Engineer · Graduate CS Student
+
+<h3 align="center" style="color:#00BFFF">
+  Data and AI/ML Engineer | MS in Computer Science | Indiana University Bloomington(Graduating May 2026)
 </h3>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Building+scalable+data+pipelines;Applying+Machine+Learning+to+real+world+data;Turning+raw+data+into+insights"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=620&lines=Building+scalable+data+pipelines;Applying+Machine+Learning+to+real+world+data;Turning+raw+data+into+insights"
+    alt="Typing Animation"
   />
 </p>
+
 
 ---
 
 ## 👋 About Me
 
-- 🎓 **MS in Computer Science** @ Indiana University Bloomington (Graduating in May 2026) 
+- 🎓 **MS in Computer Science** @ Indiana University Bloomington  
 - 🗄️ **Data Engineer & AI/ML Engineer** with hands-on cloud and analytics experience  
 - ⚙️ Passionate about **data pipelines, automation, and ML systems**
 - 📊 Strong foundation in **data modeling, analytics, and applied ML**
@@ -34,28 +40,53 @@
 - **Automation**: Workflow orchestration & AI-powered systems  
 
 ---
-
 ## 🛠 Tech Stack
 
 ### Programming & Querying
 <p>
-  <img src="https://skillicons.dev/icons?i=python,bash,postgres" />
+  <img src="https://skillicons.dev/icons?i=python,bash,postgresql,java,cpp,javascript" />
 </p>
 
-### Data Engineering & Streaming
-<p>
-  <img src="https://skillicons.dev/icons?i=apachekafka,apachespark" />
+### 🗄️ Data Engineering & Streaming
+
+<p align="left">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="40" alt="Apache Spark Logo"/>
+
+  <!-- Apache Kafka -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Apache_Kafka_logo.svg" height="40" alt="Apache Kafka Logo"/>
+
+ <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/apache-airflow.svg" height="40" alt="Apache Airflow"/>
+
+  <!-- Apache Hadoop -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Hadoop_logo_new.svg/1200px-Hadoop_logo_new.svg.png" height="40" alt="Apache Hadoop"/>
+
+
 </p>
 
-### Cloud & Platforms (AWS)
+
+
+
+
+
+### Web & App Development
 <p>
-  <img src="https://skillicons.dev/icons?i=aws" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
 </p>
+
+
+### Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode" />
+</p>
+
 
 ### ML, Analytics & Visualization
-- Pandas · NumPy · scikit-learn  
+- Pandas · NumPy · scikit-learn · FAISS  
 - Power BI · Tableau · SQL Analytics  
 - Matplotlib · Seaborn  
+- LangChain · AWS Bedrock · LLMs (Claude, Titan)
+
+
 
 ---
 
@@ -64,18 +95,24 @@
 ### **AI & Automation Intern — TÜV SÜD America**
 📍 Massachusetts, USA | *Jun 2025 – Aug 2025*
 
-- Built **10+ automated data pipelines** using Power Automate & Azure Logic Apps  
-- Designed structured data stores using **SharePoint Lists & Power Apps**
-- Integrated an **AI-powered enterprise chatbot** connected to structured datasets  
+- Designed and deployed 10+ data-driven automation pipelines using Microsoft Power Automate and Azure Logic
+  Apps to orchestrate certificate tracking, document ingestion, and notification workflows
+- Engineered 5+ SharePoint Lists and Power Apps as structured data stores (IT Help Desk, Competencies Tracker,
+  Vehicle Service Lookup), replacing spreadsheet-based workflows and enabling consistent data ingestion
+- Integrated an internal AI-powered chatbot using Copilot Studio into the enterprise SharePoint portal, connecting
+  it to structured SharePoint data to enable scalable self-service data access
 
 ---
 
 ### **Data & Analytics Intern — Larsen & Toubro**
 📍 Mumbai, India | *Jun 2020 – Jul 2020*
+- Assisted in cleaning and structuring 20K+ historical retail sales records using Python (pandas), handling missing
+  values and basic transformations to support internal reporting and analysis
+- Wrote reusable Python scripts to aggregate sales data across multiple months and product categories, gaining
+  hands-on experience with data preparation workflows used by senior analysts
+- Created Power BI dashboards with 3–4 core sales metrics to visualize trends and summaries, contributing to
+  exploratory analysis for sales and inventory planning discussions
 
-- Cleaned and processed **20K+ records** using Python (pandas)  
-- Built reusable aggregation scripts for analytics workflows  
-- Designed **Power BI dashboards** to support sales & inventory analysis  
 
 ---
 
@@ -99,50 +136,12 @@
 
 ---
 
-## 📄 Research
+## 📄 Research Publications
 
 **CampusX: Revolutionizing College Selection with 3D Insights & AI**  
 - Built ML models using **100+ data points** for trend forecasting  
 - Platform adopted by **150+ students**  
 - Research published in **STM Journals**
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Siddhant1802&show_icons=true&theme=github_dark&hide_border=true"
-    height="170"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Siddhant1802&theme=github-dark&hide_border=true"
-    height="170"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhant1802&layout=compact&theme=github_dark&hide_border=true"
-    height="160"
-  />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/Siddhant1802">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/SiddhantSingh">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
 
 ---
 
